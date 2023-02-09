@@ -7,7 +7,7 @@ const Author =() => {
       position: "relative"
     }} >
       <center>
-        <h2>Designed by</h2> <img src = {author} width="400px" height="80px" alt="author" />
+        <h2>Designed by Adi Miuprix</h2>
       </center>
     </div>
   )
